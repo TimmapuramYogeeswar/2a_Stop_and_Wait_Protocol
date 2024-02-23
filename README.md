@@ -38,9 +38,10 @@ while True:
 ```
 ## OUTPUT
 ### client:
-![image](https://github.com/ramyanarra07/2a_Stop_and_Wait_Protocol/assets/152273259/ea878da8-858c-437b-af6b-0ec718277b71)
+![image](https://github.com/TimmapuramYogeeswar/2a_Stop_and_Wait_Protocol/assets/154494746/e99fa804-93c9-489e-b6c4-aea43c49ffa7)
+
 ### server:
-![image](https://github.com/ramyanarra07/2a_Stop_and_Wait_Protocol/assets/152273259/bdd095b9-55d0-4eac-bf82-a8e23caf67b7)
+![image](https://github.com/TimmapuramYogeeswar/2a_Stop_and_Wait_Protocol/assets/154494746/46350642-a40a-4a79-96e4-f6348f5ef8b3)
 
 
 ## RESULT
